@@ -239,3 +239,7 @@ supabase db reset # Reset database (runs migrations + seed)
 - [shadcn-vue Documentation](https://www.shadcn-vue.com/)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [vee-validate Documentation](https://vee-validate.logaretm.com/v4/)
+
+## License
+
+[MIT](LICENSE)
